@@ -137,4 +137,4 @@ and some shared functions from `functions.py`
 
 ... and more features
 
-### **May the compound interest be with You!**
+### **May the power of compound interest be with You!**
